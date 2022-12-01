@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "vue": "^3.2.16",
-    "vue-router": "^4.0.12"
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@layer0/cli": "^4.18.0",
